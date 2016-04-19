@@ -1,3 +1,5 @@
+#!usr/bin/env python
+# Author: Malabika Sen
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
